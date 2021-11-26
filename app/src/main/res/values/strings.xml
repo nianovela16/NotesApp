@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_page">Login Page</string>
+    <string name="logout">Logout</string>
+    <string name="note_is_empty">Note is Empty</string>
+    <string name="title">Title</string>
+    <string name="your_notes_here">Your Notes Here</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+</resources>
